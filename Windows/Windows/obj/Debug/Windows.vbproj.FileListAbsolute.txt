@@ -1,0 +1,11 @@
+c:\users\kalenor\documents\visual studio 2013\Projects\Windows\Windows\bin\Debug\Windows.exe.config
+c:\users\kalenor\documents\visual studio 2013\Projects\Windows\Windows\bin\Debug\Windows.exe
+c:\users\kalenor\documents\visual studio 2013\Projects\Windows\Windows\bin\Debug\Windows.pdb
+c:\users\kalenor\documents\visual studio 2013\Projects\Windows\Windows\bin\Debug\Windows.xml
+c:\users\kalenor\documents\visual studio 2013\Projects\Windows\Windows\obj\Debug\Windows.Form1.resources
+c:\users\kalenor\documents\visual studio 2013\Projects\Windows\Windows\obj\Debug\Windows.Resources.resources
+c:\users\kalenor\documents\visual studio 2013\Projects\Windows\Windows\obj\Debug\Windows.vbproj.GenerateResource.Cache
+c:\users\kalenor\documents\visual studio 2013\Projects\Windows\Windows\obj\Debug\Windows.exe
+c:\users\kalenor\documents\visual studio 2013\Projects\Windows\Windows\obj\Debug\Windows.xml
+c:\users\kalenor\documents\visual studio 2013\Projects\Windows\Windows\obj\Debug\Windows.pdb
+c:\users\kalenor\documents\visual studio 2013\Projects\Windows\Windows\obj\Debug\Windows.login.resources
